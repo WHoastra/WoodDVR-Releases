@@ -4,7 +4,7 @@ Installer releases for **WoodDVR** (survey DVR, position fixes, video overlay, n
 
 This repository holds the installers only; the source code is not public.
 
-- Website, pricing and documentation: https://wooddvr.com
+- Website, pricing and documentation: https://whoastra-labs-site.vercel.app/woodsolutions/wooddvr
 - All downloads: https://github.com/WHoastra/WoodDVR-Releases/releases
   - `WoodDVR_Setup_<version>.exe`: the full application (speech model for offline narration transcription included)
   - `WoodDVR_Setup_<version>_3D.exe`: the same plus the COLMAP engine for the 3D Model add-on (NVIDIA GPU)
